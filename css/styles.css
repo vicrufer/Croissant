@@ -1,0 +1,16 @@
+body {
+    background: #a6f8f8;
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+    color: purple;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
